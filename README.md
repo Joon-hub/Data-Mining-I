@@ -1,6 +1,14 @@
 # Data-Mining-I
 Course offered by University of Mannheim 
 
+The course contains 8 lectures and 8 exercise videos. The course it very detailed and it takes approximately 6-8 weeks to complete it. 
+
+1. How to pursure the course
+    1. Watch the Lecture Videos
+    2. Watch Exercise Screencast 
+    3. Solve the Exercise Task yourself 
+    4. After Solving the task you can compare your result to the solution availaible
+
 ## Lecture videos 
 1. [Introduction to Data Mining ](https://data.dws.informatik.uni-mannheim.de/videos/DMI/V1_IntroductionToDataMining/)
 2. [Clustering](https://data.dws.informatik.uni-mannheim.de/videos/DMI/V2_ClusterAnalysis/)
