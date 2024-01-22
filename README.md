@@ -1,4 +1,8 @@
 # Data-Mining-I
+![Alt text](71QaZ4XxSrL._SY522_-1.jpg)
+
+(https://www-users.cse.umn.edu/~kumar001/dmbook/index.php)
+
 Course offered by University of Mannheim 
 
 The course contains 8 lectures and 8 exercise videos. The course it very detailed and it takes approximately 6-8 weeks to complete it. 
