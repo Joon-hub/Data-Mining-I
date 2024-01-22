@@ -12,4 +12,4 @@ Lecture videos
 8. [Text mining](https://data.dws.informatik.uni-mannheim.de/videos/DMI/V8_TextMining/)
 
 
-Lecture slides for all the lectures
+Lecture slides for all the lectures [press here](https://github.com/Sudhir-Joon/Data-Mining-I/blob/main/Lecture%20slides%20and%20other%20material/)
