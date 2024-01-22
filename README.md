@@ -1,7 +1,4 @@
 # Data-Mining-I
-![Alt text](71QaZ4XxSrL._SY522_-1.jpg)
-
-(https://www-users.cse.umn.edu/~kumar001/dmbook/index.php)
 
 Course offered by University of Mannheim 
 
@@ -24,7 +21,7 @@ The course contains 8 lectures and 8 exercise videos. The course it very detaile
 8. [Text mining](https://data.dws.informatik.uni-mannheim.de/videos/DMI/V8_TextMining/)
 
 
-<<<<<<< HEAD
+## Lecture slides
 Lecture slides for all the lectures [press here](https://github.com/Sudhir-Joon/Data-Mining-I/tree/main/Lecture%20slides)
 
 ## Exercise Screen cast 
@@ -44,3 +41,11 @@ Lecture slides for all the lectures [press here](https://github.com/Sudhir-Joon/
 7.[Association Analysis](https://data.dws.informatik.uni-mannheim.de/videos/DMI/exercise/python/07_TextMining/07_TextMiningFSS2022_Intro.mp4) - [Solution](https://data.dws.informatik.uni-mannheim.de/videos/DMI/exercise/python/07_TextMining/07_TextMiningFSS2022_Solution.mp4)
 
 8.[Text mining](https://data.dws.informatik.uni-mannheim.de/videos/DMI/exercise/python/08_AssociationAnalysis/08_AssociationAnalysisFSS2022_Intro.mp4) - [Solution](https://data.dws.informatik.uni-mannheim.de/videos/DMI/exercise/python/08_AssociationAnalysis/08_AssociationAnalysisFSS2022_Solution.mp4)
+
+## Literature
+
+Here is the textbook used in the course
+
+![Alt text](71QaZ4XxSrL._SY522_-1.jpg)
+
+(https://www-users.cse.umn.edu/~kumar001/dmbook/index.php)
