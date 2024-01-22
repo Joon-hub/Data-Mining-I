@@ -10,3 +10,6 @@ Lecture videos
 6. [Regression](https://data.dws.informatik.uni-mannheim.de/videos/DMI/V6_Regression/)
 7. [Association Analysis](https://data.dws.informatik.uni-mannheim.de/videos/DMI/V7_AssociationAnalysis/)
 8. [Text mining](https://data.dws.informatik.uni-mannheim.de/videos/DMI/V8_TextMining/)
+
+
+Lecture slides for all the lectures
