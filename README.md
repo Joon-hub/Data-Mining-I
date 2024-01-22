@@ -24,7 +24,7 @@ The course contains 8 lectures and 8 exercise videos. The course it very detaile
 8. [Text mining](https://data.dws.informatik.uni-mannheim.de/videos/DMI/V8_TextMining/)
 
 
-Lecture slides for all the lectures [press here](https://github.com/Sudhir-Joon/Data-Mining-I/blob/main/Lecture%20slides%20and%20other%20material/)
+Lecture slides for all the lectures [press here](https://github.dev/Sudhir-Joon/Data-Mining-I/tree/main)
 
 ## Exercise Screen cast 
 
