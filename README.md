@@ -23,6 +23,7 @@ The course contains 8 lectures and 8 exercise videos. The course it very detaile
 
 ## Lecture slides
 Lecture slides for all the lectures [press here](https://github.com/Sudhir-Joon/Data-Mining-I/tree/main/Lecture%20slides)
+Course datastet[Press here](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/course-archive/fss-2023/ie-500-data-mining/)
 
 ## Exercise Screen cast 
 
@@ -46,6 +47,6 @@ Lecture slides for all the lectures [press here](https://github.com/Sudhir-Joon/
 
 Here is the textbook used in the course
 
-![Alt text](71QaZ4XxSrL._SY522_-1.jpg)
+![Alt text](71QaZ4XxSrL._AC_UF894,1000_QL80_.jpg)
 
 (https://www-users.cse.umn.edu/~kumar001/dmbook/index.php)
